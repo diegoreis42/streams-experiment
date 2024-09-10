@@ -1,0 +1,37 @@
+[
+  {
+    "chunkSize": 16384,
+    "time": 108.847459,
+    "memoryUsage": 91615232
+  },
+  {
+    "chunkSize": 32768,
+    "time": 53.849862,
+    "memoryUsage": 92925952
+  },
+  {
+    "chunkSize": 65536,
+    "time": 38.280497999999994,
+    "memoryUsage": 97579008
+  },
+  {
+    "chunkSize": 131072,
+    "time": 32.074005,
+    "memoryUsage": 101023744
+  },
+  {
+    "chunkSize": 262144,
+    "time": 27.777082999999948,
+    "memoryUsage": 100892672
+  },
+  {
+    "chunkSize": 524288,
+    "time": 29.42297400000001,
+    "memoryUsage": 102658048
+  },
+  {
+    "chunkSize": 1048576,
+    "time": 22.080408999999975,
+    "memoryUsage": 123060224
+  }
+]
