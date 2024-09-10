@@ -1,4 +1,7 @@
 *.txt
 *.png
 results.json
+big.json
+medium.json
+small.json
 *.file
